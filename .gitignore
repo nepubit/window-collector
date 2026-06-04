@@ -1,0 +1,11 @@
+# ビルド済みバイナリは GitHub Releases で配布する（リポジトリ本体には含めない）
+WindowCollector.exe
+*.exe
+
+# 実行時に自動生成される設定ファイル
+settings.txt
+
+# OS / エディタの生成物
+Thumbs.db
+desktop.ini
+.DS_Store
